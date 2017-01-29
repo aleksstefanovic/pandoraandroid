@@ -2,9 +2,5 @@
     {
         "merged": "D:\\Data\\Projects\\pandoraandroid\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text_holo.xml",
         "source": "D:\\Data\\Projects\\pandoraandroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\color\\abc_search_url_text_holo.xml"
-    },
-    {
-        "merged": "D:\\Data\\Projects\\Project Pandora\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text_holo.xml",
-        "source": "D:\\Data\\Projects\\Project Pandora\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\color\\abc_search_url_text_holo.xml"
     }
 ]

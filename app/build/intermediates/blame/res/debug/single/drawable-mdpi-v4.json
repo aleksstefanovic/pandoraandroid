@@ -1,9 +1,5 @@
 [
     {
-        "merged": "D:\\Data\\Projects\\Project Pandora\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\roundedbutton.xml",
-        "source": "D:\\Data\\Projects\\Project Pandora\\app\\src\\main\\res\\drawable-mdpi\\roundedbutton.xml"
-    },
-    {
         "merged": "D:\\Data\\Projects\\pandoraandroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\roundedbutton.xml",
         "source": "D:\\Data\\Projects\\pandoraandroid\\app\\src\\main\\res\\drawable-mdpi\\roundedbutton.xml"
     }
