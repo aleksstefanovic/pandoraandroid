@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="intro">Press the button to speak!</string>
+    <string name="app_name">Pandora</string>
+    <string name="listen">Listen</string>
+    <string name="word_intro">Suggested words&#8230;</string>
+    <string name="talk">Talk</string>
+
+</resources>

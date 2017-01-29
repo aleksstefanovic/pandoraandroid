@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\phnks\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="D:\Data\Projects\pandoraandroid\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_2b250ba2c906cfc730201987789ef3a2d2db6a31.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\phnks\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="D:\Data\Projects\pandoraandroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-19.1.0_2b250ba2c906cfc730201987789ef3a2d2db6a31\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Data\Projects\pandoraandroid\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="276a4deefece2ef54f055ba51bd37b71f3fed68c">
+        <dex dex="D:\Data\Projects\pandoraandroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_74d693df6460b992f84a1b054880093934e58e3d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Data\Projects\pandoraandroid\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b7ff1187628af43e2b6ad0ecb5ca2a190b01b303">
+        <dex dex="D:\Data\Projects\pandoraandroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_9e98c6f8d73e4a5383963e2a103434aad419616b\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Data\Projects\pandoraandroid\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
+        <dex dex="D:\Data\Projects\pandoraandroid\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-19.1.0_7fe7841039a389585c05185f2f3babe4214bc609.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Data\Projects\pandoraandroid\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
+        <dex dex="D:\Data\Projects\pandoraandroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-19.1.0_7fe7841039a389585c05185f2f3babe4214bc609\classes.dex" />
+    </item>
+
+</items>

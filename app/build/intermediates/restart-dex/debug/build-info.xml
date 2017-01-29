@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="23"
+    density="hdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="1858983935512"
+    token="-7059545824458295485"
+    verifier="COLD_SWAP_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <artifact
+        location="D:\Data\Projects\pandoraandroid\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_9\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Data\Projects\pandoraandroid\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_5\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Data\Projects\pandoraandroid\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_7\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Data\Projects\pandoraandroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_9e98c6f8d73e4a5383963e2a103434aad419616b\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Data\Projects\pandoraandroid\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_6\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Data\Projects\pandoraandroid\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_3\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Data\Projects\pandoraandroid\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_8\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Data\Projects\pandoraandroid\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_4\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Data\Projects\pandoraandroid\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Data\Projects\pandoraandroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-19.1.0_7fe7841039a389585c05185f2f3babe4214bc609\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Data\Projects\pandoraandroid\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_0\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Data\Projects\pandoraandroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-19.1.0_2b250ba2c906cfc730201987789ef3a2d2db6a31\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Data\Projects\pandoraandroid\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Data\Projects\pandoraandroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_74d693df6460b992f84a1b054880093934e58e3d\classes.dex"
+        type="DEX" />
+
+    <build
+        timestamp="1503828329223"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="D:\Data\Projects\pandoraandroid\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="1858983935512"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="D:\Data\Projects\pandoraandroid\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_9\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Data\Projects\pandoraandroid\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_5\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Data\Projects\pandoraandroid\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_7\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Data\Projects\pandoraandroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_9e98c6f8d73e4a5383963e2a103434aad419616b\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Data\Projects\pandoraandroid\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_6\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Data\Projects\pandoraandroid\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_3\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Data\Projects\pandoraandroid\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_8\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Data\Projects\pandoraandroid\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_4\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Data\Projects\pandoraandroid\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Data\Projects\pandoraandroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-19.1.0_7fe7841039a389585c05185f2f3babe4214bc609\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Data\Projects\pandoraandroid\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_0\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Data\Projects\pandoraandroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-19.1.0_2b250ba2c906cfc730201987789ef3a2d2db6a31\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Data\Projects\pandoraandroid\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Data\Projects\pandoraandroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_74d693df6460b992f84a1b054880093934e58e3d\classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>
